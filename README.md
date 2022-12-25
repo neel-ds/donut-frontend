@@ -1,16 +1,16 @@
 # Donut
-This is a landing page of donut. 
+This is a landing page of poly-fund. 
 
 ## Prerequisites
 
-The admin user must have Node.js and npm to use this boilerplate. Just download Node.js from [here](https://nodejs.org/en/download/). Every user must have Phantom wallet to give or receive the donations. Checkout how to create phantom wallet from [here](https://help.phantom.app/hc/en-us/articles/8071074929043-How-to-create-a-new-wallet).
+The admin user must have Node.js and npm to use this boilerplate. Just download Node.js from [here](https://nodejs.org/en/download/).
 
 ## Setup Instructions
 
 Clone the repo via CLI:
 ```sh
-git clone https://github.com/neel-ds/donut-frontend
-cd donut-frontend
+git clone https://github.com/neel-ds/poly-fund-frontend
+cd poly-fund-frontend
 ```
 
 Install the required packages:
