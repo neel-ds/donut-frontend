@@ -1,4 +1,4 @@
-# Donut
+# Poly-fund
 This is a landing page of poly-fund. 
 
 ## Prerequisites
